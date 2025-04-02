@@ -149,5 +149,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to make chang
 
 ### 2025 Team Members
 - TBD
+- Seungbeom Yang
 
 Shoutout to the team responsible for the prior iteration, at [UABC Portal](https://github.com/UoaWDCC/uabc-portal).
